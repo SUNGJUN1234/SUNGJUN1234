@@ -32,5 +32,5 @@
 </div>
 <br>
 <div>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNGJUN1234"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNGJUN1234" />
 </div>
