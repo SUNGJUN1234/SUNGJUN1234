@@ -1,5 +1,5 @@
 <div>
-	<a href="https://sungjun1234.github.io/"><font size="20px">포트폴리오 사이트</font></a>
+	<a href="https://sungjun1234.github.io/"><font size="30px">포트폴리오 사이트</font></a>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
 </div>
