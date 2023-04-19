@@ -1,5 +1,6 @@
 <div>
 	<a href="https://sungjun1234.github.io/">성준 포트폴리오</a>
+	<a href="http://192.168.0.9/">테스트</a>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
 </div>
