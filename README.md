@@ -1,4 +1,4 @@
-<div>
+<div style="color:red">
 	<a href="https://sungjun1234.github.io/">성준 포트폴리오</a>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
