@@ -44,3 +44,7 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNGJUN1234" />
 </div>
+
+<div align="center">
+<a href="https://sj-404.tistory.com/">Tistory</a>
+</div>
