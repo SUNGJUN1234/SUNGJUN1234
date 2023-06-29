@@ -1,6 +1,7 @@
 
 <div align="center">
-	<a href="https://sungjun1234.github.io/">성준 포트폴리오</a>
+	<a href="https://sj-404.tistory.com/">Tistory</a>
+	<a href="https://sungjun1234.github.io/">3D 포폴 준비중</a>
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Platforms & Languages</p>
 </div>
@@ -43,8 +44,4 @@
 <br>
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUNGJUN1234" />
-</div>
-
-<div align="center">
-<a href="https://sj-404.tistory.com/">Tistory</a>
 </div>
