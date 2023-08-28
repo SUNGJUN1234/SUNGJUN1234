@@ -7,7 +7,7 @@
 	<p>✨ Platforms & Languages</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/ReactNative-blue?style=flat&logo=ReactNative&logoColor=white" />
+	<img src="https://img.shields.io/badge/ReactNative-black?style=flat&logo=react&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white" />
     	<img src="https://img.shields.io/badge/Paper.js-F56040?style=flat&logo=Paper.js&logoColor=white" />
