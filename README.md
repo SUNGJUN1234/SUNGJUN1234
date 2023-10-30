@@ -1,6 +1,5 @@
 
 <div align="center">
-
 	<a href="http://sjsjs.ivyro.net/">명함</a>
 	<br/><br/>
 	<a href="https://sj-404.tistory.com/">Tistory</a>
