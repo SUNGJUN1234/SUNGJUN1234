@@ -30,6 +30,7 @@
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+	<br>
 	<img src="https://img.shields.io/badge/XAMPP-F37623?style=flat&logo=XAMPP&logoColor=white" />
 </div>
 <br>
