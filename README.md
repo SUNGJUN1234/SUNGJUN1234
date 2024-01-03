@@ -2,9 +2,9 @@
 <div align="center">
 <!-- 	<a href="https://sj-404.tistory.com/">Tistory</a>
 	<br/><br/>
-	<a href="https://sungjun1234.github.io/">3D 포폴 준비중</a>
+	<a href="https://sungjun1234.github.io/">3D 포폴 준비중</a> -->
 	<h3>📚 Tech Stack</h3>
-	<p>✨ Languages</p> -->
+	<p>✨ Languages</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/ReactNative-blue?style=flat&logo=react&logoColor=white" />
