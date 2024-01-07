@@ -1,7 +1,5 @@
 
 <div align="center">
-<!-- 	<a href="https://sj-404.tistory.com/">Tistory</a>
-	<a href="https://sungjun1234.github.io/">3D 포폴 준비중</a> -->
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Languages</p>
 </div>
