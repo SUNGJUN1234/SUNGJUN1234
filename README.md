@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://phoneky.co.uk/thumbs/screensavers/down/cartoon-anime/doraemon_Cr1ZjBCO.gif" width="80">
+</p>
 <div align="center">
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Languages</p>
