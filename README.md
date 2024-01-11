@@ -3,8 +3,9 @@
 	<h3>📚 Tech Stack</h3>
 	<p>✨ Languages</p>
 </div>
+
 <div align="center">
-  <img src="https://phoneky.co.uk/thumbs/screensavers/down/cartoon-anime/doraemon_Cr1ZjBCO.gif" width="80">
+  <img src="https://t1.daumcdn.net/cfile/blog/1547E30E4B807BAE5F" width="80">
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/ReactNative-blue?style=flat&logo=react&logoColor=white" />
